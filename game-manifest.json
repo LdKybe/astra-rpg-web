@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "source_commit": "981e8cdcca180048595963f04df8dee049dbbe2d",
+  "files": {
+    "game.html": "751b20615f7a7e14c3e670def5fadb76472cb7ecfd03afdeb4269145f77a2c9c",
+    "game.pyxapp": "a56b8b66973493c5ce583db445961f55c024c751f46b6a976cc846ddfb1efb83",
+    "previews/sprites.png": "a1ddc42c692e8545348d91bd220d768ec424793fce877a88cf9b3212d140bc42",
+    "previews/battle.wav": "fd0d344a9a780b794bed136c33529e81d2d91fe647e4006bd5da7cf9f953b507",
+    "previews/sfx.wav": "0ed2250dd8d2d775b6423057d534230ca9de84f803af92797b730ea564148273",
+    "licenses/PixelMplus.txt": "907e9f5ac24cba6ce2523cd2a66d6ba143e082c685344dfa8d30ef12f67410a0",
+    "licenses/CREDITS.txt": "4f6dba3ee0f14f9c7534103ec496d9cac157715c31a91db5f4f4e93699108b41"
+  }
+}

@@ -1,10 +1,18 @@
 {
-  "available": false,
+  "available": true,
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "index.html": "2a1c7ad544a814eb590ef1274e11b8e961204a5249493a9927576e08cc82577d",
+    "game-manifest.json": "e1b7202d2a640fe8338b46b594072b8b0600b36851f5c826626160f6d1bd1686",
+    "game.html": "751b20615f7a7e14c3e670def5fadb76472cb7ecfd03afdeb4269145f77a2c9c",
+    "game.pyxapp": "a56b8b66973493c5ce583db445961f55c024c751f46b6a976cc846ddfb1efb83",
+    "index.html": "7c82a0788663157bc0844cc6a2dfdddf0ac6fc6c7b5040eabacfbb559c7a7051",
+    "licenses/CREDITS.txt": "4f6dba3ee0f14f9c7534103ec496d9cac157715c31a91db5f4f4e93699108b41",
+    "licenses/PixelMplus.txt": "907e9f5ac24cba6ce2523cd2a66d6ba143e082c685344dfa8d30ef12f67410a0",
+    "previews/battle.wav": "fd0d344a9a780b794bed136c33529e81d2d91fe647e4006bd5da7cf9f953b507",
+    "previews/sfx.wav": "0ed2250dd8d2d775b6423057d534230ca9de84f803af92797b730ea564148273",
+    "previews/sprites.png": "a1ddc42c692e8545348d91bd220d768ec424793fce877a88cf9b3212d140bc42",
     "styles.css": "ddd4d2384895733ebf82b633e8e3e26749ccb00be8479ea2f355090b8e6eb13e"
   },
   "schema_version": 1,
-  "source_commit": "e38d07df84441ec36d7cb2cb51b895cca35215b2"
+  "source_commit": "981e8cdcca180048595963f04df8dee049dbbe2d"
 }
